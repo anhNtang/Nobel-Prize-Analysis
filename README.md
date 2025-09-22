@@ -1,3 +1,3 @@
 # Nobel-Prize-Analysis
 
-Anh Tang
+Dataset: [Nobel Prize Dataset](https://www.kaggle.com/datasets/imdevskp/nobel-prize)
