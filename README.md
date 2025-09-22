@@ -16,5 +16,7 @@ Dataset from Kaggle: [Nobel Prize Dataset](https://www.kaggle.com/datasets/imdev
 3. Analyze and visualize the gender gap of Nobel prize winners
   * How many Nobel prize laureates are women?
   * The gender gap in each category; which category has the most female laureates?
-4. Analyze the monetary rewards
+4. Perform statistical testing to analyze the reward amount
+  * Determine the correlation between the reward amount and the year
+  * Determine the correlation between the reward amount and the category 
 5. Summarize and visualize the country/affiliation of the Nobel prize laureates
