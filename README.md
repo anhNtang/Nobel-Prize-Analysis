@@ -1,7 +1,8 @@
 # Nobel-Prize-Analysis
 
 Dataset from Kaggle: [Nobel Prize Dataset](https://www.kaggle.com/datasets/imdevskp/nobel-prize)
-[JSON File]()
+
+[JSON File](https://github.com/anhNtang/Nobel-Prize-Analysis/blob/main/nobeldata.json)
 
 ## Objective
 1. Provide an overview of the general statistics:
