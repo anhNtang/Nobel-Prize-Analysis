@@ -23,5 +23,8 @@ Dataset from Kaggle: [Nobel Prize Dataset](https://www.kaggle.com/datasets/imdev
   * Determine the correlation between the reward amount and the category 
 5. Summarize and visualize the country/affiliation of the Nobel prize laureates
 
+## Statistical Testing
+[Rmd File](http://rpubs.com/atang1/1369105)
+
 ## D3 Javascript JVisualizations 
 [Link](Javascript_D3/index.html)
